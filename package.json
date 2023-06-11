@@ -1,0 +1,11 @@
+{
+  "name": "gabe_campos_contact_managment_app",
+  "version": "1.0.0",
+  "description": "Contact management app using JavaScript to create server",
+  "main": "createServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabe Campos",
+  "license": "ISC"
+}
