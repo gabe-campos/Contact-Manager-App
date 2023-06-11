@@ -1,14 +1,14 @@
 # Contact Manager App
 Welcome to my contact manager app!
-This was a simple class project that taught us how to use Bootstrap for formatting, and Node.js/JavaScript for setting up a server.
+This was a  class project that taught us how to use Bootstrap for formatting webpages, and Node.js/JavaScript for setting up a server.
 
 The app is simple to use after you get it set up.
 In order to set it up, this first thing you want to do is clone this repo.
-Once you have cloned the repo and navigated inside of it locally on your command line, the first step is to run the following command:
+Once you have cloned the repo and navigated inside of it locally on your command line, run the following command:
 ```
 npm install
 ```
-This command will read the "package.json" file and install any required dependencies.
+This command will read the file "package.json" and install any required dependencies.
 
 To start the app (once again make sure you are inside the repo), run this command:
 ```
