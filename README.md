@@ -1,4 +1,4 @@
-# Contact-Manager-App
+# Contact Manager App
 Welcome to my contact manager app!
 This was a simple class project that taught us how to use Bootstrap for formatting, and Node.js/JavaScript for setting up a server.
 
