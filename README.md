@@ -32,7 +32,8 @@ brew install node
 ```
 
 ## Screenshots
-![image](https://github.com/gabe-campos/Contact-Manager-App/assets/91922397/a1ec59b9-cd24-4a97-a56b-ec91c69cd3c8)
+![image](https://github.com/gabe-campos/Contact-Manager-App/assets/91922397/fdefbcb3-c6e4-4c77-a6d1-cfde8e676f65)
+
 
 ![image](https://github.com/gabe-campos/Contact-Manager-App/assets/91922397/7c16446a-b917-46b0-b02b-43e181779b9e)
 
