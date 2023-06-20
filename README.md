@@ -30,3 +30,13 @@ If you are on Mac:
 brew update
 brew install node
 ```
+
+## Screenshots
+![image](https://github.com/gabe-campos/Contact-Manager-App/assets/91922397/a1ec59b9-cd24-4a97-a56b-ec91c69cd3c8)
+
+![image](https://github.com/gabe-campos/Contact-Manager-App/assets/91922397/7c16446a-b917-46b0-b02b-43e181779b9e)
+
+![image](https://github.com/gabe-campos/Contact-Manager-App/assets/91922397/3337ab74-de5a-4726-b0ce-501a4e024ae7)
+
+
+
